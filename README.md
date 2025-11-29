@@ -49,7 +49,7 @@ Ollama installed (if using local mode)
 * Set the backend in the script to either:
     BACKEND = "groq"
     BACKEND = "local"
-* Run the script using python main.py.
+* Run the script using python app.py.
 
 **Example Questions**
 
