@@ -53,10 +53,10 @@ Ollama installed (if using local mode)
 
 **Example Questions**
 
-What is this document about?
-Summarize key points from the introduction.
-What methodology is described?
-What treatment or conclusion does the document present?
+* What is this document about?
+* Summarize key points from the introduction.
+* What methodology is described?
+* What treatment or conclusion does the document present?
 
 **Conclusion**
 
